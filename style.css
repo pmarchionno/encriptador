@@ -26,6 +26,7 @@ body {
   border-color: cornflowerblue;
   /* border: dashed; */
   background-color: rgb(243, 245, 252);
+  max-width: 1124px;
 }
 
 .content-areas {
